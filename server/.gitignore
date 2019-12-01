@@ -1,0 +1,5 @@
+server
+*.py
+secrets.yaml
+scripts/
+run_triva_server
